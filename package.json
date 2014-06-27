@@ -1,0 +1,24 @@
+{
+  "name": "nodebb-plugin-swift",
+  "version": "0.0.1",
+  "description": "NodeBB plugin for highlight swift language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mani95lisa/nodebb-plugin-swift"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "swift"
+  ],
+  "author": "Mani Wang <mani95lisa@gmail.com> (https://github.com/mani95lisa)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mani95lisa/nodebb-plugin-swift/issues"
+  },
+  "homepage": "https://github.com/mani95lisa/nodebb-plugin-swift"
+}

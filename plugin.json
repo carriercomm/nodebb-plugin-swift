@@ -1,0 +1,14 @@
+{
+    "id": "nodebb-plugin-swift",
+    "name": "NodeBB Plugin Swift",
+    "description": "NodeBB plugin for highlight swift language",
+    "url": "https://github.com/mani95lisa/nodebb-plugin-swift",
+    "library": "./index.js",
+    "hooks": [
+        { "hook": "filter:post.parse", "method": "parse", "callbacked": true, "priority": 6 }
+    ],
+    "css": [
+        "static/xcode.css"
+    ]
+
+}
