@@ -753,7 +753,6 @@
     hljs.configure({tabReplace: '    '});
 
     Swift.parse = function(postContent, callback) {
-        console.log(postContent);
         var re = /(<pre><code class="lang-swift">.*[\s\S]*?<\/code><\/pre>)/gmi;
         var arr = postContent.match(re);
         if(arr && arr.length){
