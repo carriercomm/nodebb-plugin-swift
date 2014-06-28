@@ -1,12 +1,10 @@
-# NodeBB Plugin Tudou
+# NodeBB Plugin Swift
 
-This NodeBB plugin allows users to embed Tudou videos inline in their posts.
-
-For example : `http://www.tudou.com/programs/view/s8ycVi0QQe4/`
+NodeBB plugin for highlight swift language
 
 ## Installation
 
-    npm install nodebb-plugin-tudou
+    npm install nodebb-plugin-swift
 
 
 
