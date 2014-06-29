@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-swift",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "NodeBB plugin for highlight swift language",
   "main": "index.js",
   "scripts": {
