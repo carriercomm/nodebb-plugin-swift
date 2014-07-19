@@ -3,7 +3,6 @@
     var hljs = require('./lib');
     var Swift = {};
     Swift.parse = function(postContent, callback) {
-        console.log(postContent);
         var re = /<pre><code class="lang-(swift|javascript|php)">(.*?[\s\S]*?)<\/code><\/pre>/gm;
         var arr = postContent.match(re);
         if(arr && arr.length){
